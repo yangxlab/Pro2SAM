@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Pro2SAM: Mask prompt to SAM with grid points for weakly supervised object localization (ECCV2024)
 
 PyTorch implementation of ''Pro2SAM: Mask prompt to SAM with grid points for weakly supervised object localization''. This repository contains PyTorch training code, inference code and pretrained models. 
